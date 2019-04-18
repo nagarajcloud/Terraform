@@ -1,10 +1,12 @@
 Prerequisite
 
         1. An Azure account
-        2. Login to azure account using " az login " command on the terraform control server
-        3. SSH key pairs
-        4. Install terraform and configure PATH - reference : https://learn.hashicorp.com/terraform/getting-started/install.html
-        5. Copy all the files to a single folder
+        2. A Linux Machine for terraform control server
+        3. Login to azure account using " az login " command on the terraform control server
+        4. SSH key pairs  - Generate an SSH key pairs
+        5. Install terraform and configure PATH - reference : https://learn.hashicorp.com/terraform/getting-started/install.html
+        6. Copy all the files to a single folder
+        7. Update the public key file ( Generated at 4th step ) in 
   
   
 Provisioning the environment:
