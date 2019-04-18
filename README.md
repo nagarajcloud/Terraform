@@ -1,4 +1,4 @@
-Prerequisite"
+Prerequisite
 
         1. An Azure account
         2. Login to azure account using " az login " command on the terraform control server
