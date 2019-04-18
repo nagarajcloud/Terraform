@@ -6,7 +6,7 @@ Prerequisite
         4. SSH key pairs  - Generate an SSH key pairs
         5. Install terraform and configure PATH - reference : https://learn.hashicorp.com/terraform/getting-started/install.html
         6. Copy all the files to a single folder
-        7. Update the public key file ( Generated at 4th step ) in 
+        7. Update the public key file ( Generated at 4th step ) in vm.rf file
   
   
 Provisioning the environment:
