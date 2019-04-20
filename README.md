@@ -11,6 +11,8 @@ Prerequisite
   
 Provisioning the environment:
 
+After copying all the files to a path,
+
  To initialize a working directory containing Terraform configuration file.
   
       terraform init
@@ -23,7 +25,7 @@ Provisioning the environment:
  
       terraform apply -var-file="var_values.tfvars
   
-Destroying the environment
+To destroy the environment
  
       terraform destroy -var-file="var_values.tfvars"
   
